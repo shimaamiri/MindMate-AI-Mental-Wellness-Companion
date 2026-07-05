@@ -65,3 +65,8 @@ To bundle and compile the application for hosting:
 npm run build
 ```
 This outputs a optimized bundle inside the `/dist` directory, ready to be deployed as static files.
+
+## 👥 Team
+
+- **Shima Amiri Fard** 
+- **Subhransu Sourav Priyadarshan** 
